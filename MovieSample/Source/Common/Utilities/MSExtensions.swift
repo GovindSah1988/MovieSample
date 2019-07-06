@@ -1,6 +1,6 @@
 //
 //  MSStringExtension.swift
-//  FindMyTrainSample
+//  MovieSample
 //
 //  Created by Govind Sah on 04/07/19.
 //  Copyright © 2019 Govind Sah. All rights reserved.
@@ -60,7 +60,7 @@ public extension CodingUserInfoKey {
 
 public extension UIViewController {
     
-    /// to present an alert from a ViewController with only OK button.
+    /// to present an alert from a ViewController with onlyModelR OK button.
     func presentOkAlert(title: String? = nil, message: String) {
         let alertController = UIAlertController(title: title, message: message, preferredStyle: .alert)
         let okAction = UIAlertAction(title: MSConstants.MSLocalizedStringConstants.alertOk, style: .default)

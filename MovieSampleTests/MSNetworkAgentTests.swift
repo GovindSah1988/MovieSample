@@ -1,6 +1,6 @@
 //
 //  MSNetworkAgentTests.swift
-//  FindMyTrainSampleTests
+//  MovieSampleTests
 //
 //  Created by Govind Sah on 05/07/19.
 //  Copyright © 2019 Govind Sah. All rights reserved.
@@ -111,7 +111,7 @@ class MSNetworkAgentTests: XCTestCase {
     }
 
     /// for testing whether the network agent sends the same url for making the request as intended
-    func test_getTrains_request_url() {
+    func test_getTracks_request_url() {
         let request = MSHomeRequest.getTracks
         
         let completion = expectation(description: "data task resumed")
@@ -147,7 +147,7 @@ class MSNetworkAgentTests: XCTestCase {
     }
     
     /// for testing the cancel functionality for any outstanding search request
-    func test_cancel_outstanding_getStations_request() {
+    func test_cancel_outstanding_getTracks_request() {
         
         let dataTask = MSMockURLSessionDataTask()
         session.currentDataTask = dataTask
