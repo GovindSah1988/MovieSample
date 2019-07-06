@@ -1,0 +1,131 @@
+{
+    "Tracks" : [
+        {
+            "track_album" : "Minutes to Midnight",
+            "name" : "What I've Done",
+            "artist" : "linkin park",
+            "track_art_work" : "https:\/\/i.ytimg.com\/vi\/WOHNBNyHXBY\/maxresdefault.jpg",
+            "id" : "1"
+        },
+        {
+            "track_album" : "Road to Revolution: Live at Milton Keynes",
+            "name" : "Numb Encore",
+            "artist" : "linkin park",
+            "track_art_work" : "https:\/\/i.ytimg.com\/vi\/Seg8XBtEsh0\/maxresdefault.jpg",
+            "id" : "2"
+        },
+        {
+            "track_album" : "Living things",
+            "name" : "Lost in the Echo",
+            "artist" : "linkin park",
+            "track_art_work" : "https:\/\/www.lpassociation.com\/upload\/images\/071412-062949_201207101636-linkin.jpg",
+            "id" : "3"
+        },
+        {
+            "track_album" : "One More Light",
+            "name" : "One More Light",
+            "artist" : "linkin park",
+            "track_art_work" : "https:\/\/up-1.cdn-fullscreendirect.com\/production\/photos\/10272\/original\/20171115_175140_10272_1023287.jpeg",
+            "id" : "4"
+        },
+        {
+            "track_album" : "Meteora",
+            "name" : "From the Inside",
+            "artist" : "linkin park",
+            "track_art_work" : "https:\/\/magneto.space\/files\/originals\/m_1281156182_1281156195.jpg",
+            "id" : "5"
+        },
+        {
+            "track_album" : "Minutes to Midnight",
+            "name" : "Given Up",
+            "artist" : "linkin park",
+            "track_art_work" : "https:\/\/i.ytimg.com\/vi\/MUjy3gfibUM\/maxresdefault.jpg",
+            "id" : "6"
+        },
+        {
+            "track_album" : "Thousand Suns",
+            "name" : "Waiting for the End",
+            "artist" : "linkin park",
+            "track_art_work" : "https:\/\/i.ytimg.com\/vi\/-UMQZ0m9KoM\/maxresdefault.jpg",
+            "id" : "7"
+        },
+        {
+            "track_album" : "Living things",
+            "name" : "Castle of Glass",
+            "artist" : "linkin park",
+            "track_art_work" : "https://upload.wikimedia.org/wikipedia/en/c/c9/Linkin_Park_-_Living_Things.jpg",
+            "id" : "8"
+        },
+        {
+            "track_album" : "Minutes to Midnight",
+            "name" : "Shadow of the Day",
+            "artist" : "linkin park",
+            "track_art_work" : "https:\/\/vignette.wikia.nocookie.net\/linkin-park-junior-underground\/images\/8\/82\/Shadow_of_the_Day.jpg\/revision\/latest?cb=20150327053032",
+            "id" : "9"
+        },
+        {
+            "track_album" : "Meteora",
+            "name" : "Somewhere I Belong",
+            "artist" : "linkin park",
+            "track_art_work" : "https:\/\/pre00.deviantart.net\/f452\/th\/pre\/f\/2014\/319\/6\/b\/linkin_park_somewhere_i_belong_by_puguhshinoda-d86jzdv.jpg",
+            "id" : "10"
+        }
+    ],
+    "Albums" : [
+        {
+            "name" : "Hybrid Theory",
+            "artist" : "linkin park",
+            "album_art_work" : "https://upload.wikimedia.org/wikipedia/en/c/c9/Linkin_park_hybrid_theory.jpg",
+            "id" : "1"
+        },
+        {
+            "name" : "Meteora",
+            "artist" : "linkin park",
+            "album_art_work" : "https://upload.wikimedia.org/wikipedia/en/6/64/MeteoraLP.jpg",
+            "id" : "2"
+        },
+        {
+            "name" : "Minutes to Midnight",
+            "artist" : "linkin park",
+            "album_art_work" : "https://upload.wikimedia.org/wikipedia/en/7/7a/Minutes_to_Midnight_cover.jpg",
+            "id" : "3"
+        },
+        {
+            "name" : "A Thousand Suns",
+            "artist" : "linkin park",
+            "album_art_work" : "https://upload.wikimedia.org/wikipedia/en/a/af/A_Thousand_Suns_Cover2.jpg",
+            "id" : "4"
+        },
+        {
+            "name" : "Living Things",
+            "artist" : "linkin park",
+            "album_art_work" : "https://upload.wikimedia.org/wikipedia/en/c/c9/Linkin_Park_-_Living_Things.jpg",
+            "id" : "5"
+        },
+        {
+            "name" : "Recharged",
+            "artist" : "linkin park",
+            "album_art_work" : "https://upload.wikimedia.org/wikipedia/en/e/e6/Linkin_Park_-_Recharged_%28Album%29.jpg",
+            "id" : "6"
+        },
+        {
+            "name" : "The Hunting Party",
+            "artist" : "linkin park",
+            "album_art_work" : "https://upload.wikimedia.org/wikipedia/en/f/fa/Linkin_Park%2C_The_Hunting_Party%2C_album_art_final.jpg",
+            "id" : "7"
+        },
+        {
+            "name" : "One More Light",
+            "artist" : "linkin park",
+            "album_art_work" : "https://upload.wikimedia.org/wikipedia/en/b/b2/Linkin_Park%2C_One_More_Light%2C_album_art_final.jpeg",
+            "id" : "8"
+        }
+        ,
+        {
+            "name" : "Reanimation",
+            "artist" : "linkin park",
+            "album_art_work" : "https://upload.wikimedia.org/wikipedia/en/7/7b/Linkin_park_reanimation.jpg",
+            "id" : "9"
+        }
+    ]
+}
